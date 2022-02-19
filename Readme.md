@@ -1,3 +1,3 @@
 # Deployed Link
 
-https://nurperit25.github.io/
+https://nurperit25.github.io/cv/
